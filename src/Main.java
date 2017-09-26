@@ -121,8 +121,7 @@ public class Main
 
         System.out.println("Pattern length before compression " + pattern.length + " bits");
 
-        int counter = 0;
-        int previous = 0;
+
 
     }
 }
